@@ -6,6 +6,7 @@
 |    **Student 2**     | 吴晓琛  |    20337247    |    40%    |    40%     |     60%     |
 
 
+you can also view it at my Gitee https://gitee.com/zhuang-yangyang/reinforcement-learning-and-game-theory.git
 
 ## 1. Introduction
 
