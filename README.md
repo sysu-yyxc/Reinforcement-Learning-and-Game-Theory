@@ -1,5 +1,6 @@
 ## 《Reinforcement learning and game theory》
 
+original code: https://gitee.com/goluke/dqn-breakout
 you can also view it at my Gitee https://gitee.com/zhuang-yangyang/reinforcement-learning-and-game-theory.git
 
 ## 1. Introduction
