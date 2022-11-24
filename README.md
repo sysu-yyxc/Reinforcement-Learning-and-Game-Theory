@@ -1,11 +1,5 @@
 ## 《Reinforcement learning and game theory》
 
-| **题目:Breakout Game** | Name | Student Number | Ideas (%) | Coding (%) | Writing (%) |
-| :------------------: | :--: | :------------: | :-------: | :--------: | :---------: |
-|    **Student 1**     | 庄阳阳  |    20302124    |    60%    |    60%     |     40%     |
-|    **Student 2**     | 吴晓琛  |    20337247    |    40%    |    40%     |     60%     |
-
-
 you can also view it at my Gitee https://gitee.com/zhuang-yangyang/reinforcement-learning-and-game-theory.git
 
 ## 1. Introduction
